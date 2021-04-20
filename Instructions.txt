@@ -10,6 +10,8 @@ mv TensorFlow-2-Lite-Object-Detection-on-the-Raspberry-Pi tensorflow
 
 cd tensorflow
 
+befor installing  prerequisites.sh open the file and rename pip as pip3 and python as python3. !!!!!!!
+
 bash install-prerequisites.sh
 
 sudo apt install cmake
