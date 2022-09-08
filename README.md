@@ -12,4 +12,4 @@ This is just for 2 devices. Modify the code to get more tha 2 devices.
 
 IMPORTANT!!! Make sure to add camera.resolution = (2516,1944) or your camera resolution before camera =PiCamera to get as much as details possible.
 
-For further queries contact me : bhanudeep6@gmail.com
+For further queries contact me : bhanudeepsimhadry@gmail.com
