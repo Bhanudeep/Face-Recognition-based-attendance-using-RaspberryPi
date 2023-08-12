@@ -1,3 +1,8 @@
+• Built contact less Face Recognition based attendance system(To mitigate Spread of Virus).Built in Python along with
+few c++ libraries such as Cmake and Dlib.
+• The product is built around Raspberry Pi4 which also includes few sensors for detection, ranging purposes.
+• Integrated this product with Spoof detection in a simple and efficient approach while marking attendance.
+
 There are specific readme's in designated Directories.
 server is server side ofapplication, ult is client side of application.
 
